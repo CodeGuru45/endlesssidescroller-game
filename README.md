@@ -14,7 +14,7 @@ Defend the ball from incoming enemies by destroying and dodging them using platf
 
 Red lasers move at a medium pace, come from multiple directions, and are able to be destroyed
 
-#### blue balls 
+#### Blue enemies
 
 Blue enemies move slightly faster than red enemies, and are not destroyable
 
