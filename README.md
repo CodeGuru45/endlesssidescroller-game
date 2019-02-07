@@ -16,10 +16,10 @@ Red lasers move at a medium pace, come from multiple directions, and are able to
 
 #### blue balls 
 
-Blue enemies move slightly faster than red enemies, and are not able to be destroyable
+Blue enemies move slightly faster than red enemies, and are not destroyable
 
 #### Pink enemies
 
-Pink enemies can be destroyed, but are very fast! Watch out! 
+Pink enemies can be destroyed, but move very fast so watch out! 
 
 
