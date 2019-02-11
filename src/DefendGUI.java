@@ -17,11 +17,10 @@ import javafx.stage.Stage;
 
 /**
  * TODO Put here a description of what this class does.
- *
+ * Handles game logic and GUI
  * @author eyequ. Created Dec 29, 2018.
  */
 public class DefendGUI extends Application {
-	// long lastNanoTime;
 
 	AnimationTimer gameLoop;
 	Random rand;
