@@ -1,8 +1,6 @@
 # endlesssidescroller-game
 
-Simple side-scrolling game in Java/JavaFX
-
-All sprites were originally created and are free to use
+An original, simple side-scrolling game made using Java/JavaFX
 
 ## How to Play
 
