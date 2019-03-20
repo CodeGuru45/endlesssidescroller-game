@@ -2,7 +2,7 @@
 
 An original, simple side-scrolling game made using Java/JavaFX
 
-![](game.gif)
+![](game-gif)
 
 ## How to Play
 
