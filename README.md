@@ -24,6 +24,6 @@ Blue enemies move slightly faster than red enemies, and are not destroyable
 
 Pink enemies can be destroyed, but move very fast so watch out! 
 
-![] game-gif.gif
+![] (game-gif.gif)
 
 
